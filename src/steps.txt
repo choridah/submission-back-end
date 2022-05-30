@@ -41,6 +41,7 @@
         },
     },
 
+15. npm install hapi-mongodb --save
 ***
 BUAT MENGATASI CORS:
 chrome://flags/#block-insecure-private-network-requests
